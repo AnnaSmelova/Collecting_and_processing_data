@@ -1,1 +1,5 @@
-# Collecting_and_processing_data
+# Курс Методы сбора и обработки данных из сети Интернет
+
+### Homeworks
+
+Geek University: факультет Искусственного интеллекта
